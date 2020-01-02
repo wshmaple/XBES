@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="JSON">
+      <UniqueIdentifier>{7ae03543-d50e-405e-a5ab-6c6f407943eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="soap">
+      <UniqueIdentifier>{e9ebe317-0221-4aca-bfaa-5d7ec9435688}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui">
+      <UniqueIdentifier>{f5866165-afca-476c-a9b3-122225194f7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="log4">
+      <UniqueIdentifier>{92724ea7-eb46-4f26-a5c7-cb458b691fbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CRoss">
+      <UniqueIdentifier>{6cb70482-4023-4970-8cd1-7b9c7f40b145}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tcp">
+      <UniqueIdentifier>{16bcb435-03a6-412d-9521-7f1faf4820de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="jsonserial">
+      <UniqueIdentifier>{408b7403-2aaa-46b3-8f15-ca8f28cb4c4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="threadpool">
+      <UniqueIdentifier>{928cfd57-a9e8-4217-a1ef-d8d74e2df05b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="factory">
+      <UniqueIdentifier>{34c5454b-e73c-4044-bb33-cdae2ea365de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="能耗">
+      <UniqueIdentifier>{297682e1-bcdb-4072-9c45-02b718cef584}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="界面UI">
+      <UniqueIdentifier>{17a8a3a5-c880-477d-b070-640c3c7532c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="公用COM">
+      <UniqueIdentifier>{7c122127-cd67-419e-b68b-4d17170895d7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="soapH.h">
+      <Filter>soap</Filter>
+    </ClInclude>
+    <ClInclude Include="soapStub.h">
+      <Filter>soap</Filter>
+    </ClInclude>
+    <ClInclude Include="stdsoap2.h">
+      <Filter>soap</Filter>
+    </ClInclude>
+    <ClInclude Include="TcpSocket.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tcpSocketHead.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="gui\src\imconfig.h">
+      <Filter>gui</Filter>
+    </ClInclude>
+    <ClInclude Include="gui\src\imgui.h">
+      <Filter>gui</Filter>
+    </ClInclude>
+    <ClInclude Include="gui\src\imgui_impl_dx9.h">
+      <Filter>gui</Filter>
+    </ClInclude>
+    <ClInclude Include="gui\src\imgui_impl_win32.h">
+      <Filter>gui</Filter>
+    </ClInclude>
+    <ClInclude Include="gui\src\imgui_internal.h">
+      <Filter>gui</Filter>
+    </ClInclude>
+    <ClInclude Include="gui\src\stb_rect_pack.h">
+      <Filter>gui</Filter>
+    </ClInclude>
+    <ClInclude Include="gui\src\stb_textedit.h">
+      <Filter>gui</Filter>
+    </ClInclude>
+    <ClInclude Include="gui\src\stb_truetype.h">
+      <Filter>gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gloable_Cross.h">
+      <Filter>CRoss</Filter>
+    </ClInclude>
+    <ClInclude Include="TCP.h">
+      <Filter>tcp</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonObejectBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TestJson.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="csv.hpp">
+      <Filter>jsonserial</Filter>
+    </ClInclude>
+    <ClInclude Include="json.hpp">
+      <Filter>jsonserial</Filter>
+    </ClInclude>
+    <ClInclude Include="detail\itoa.hpp">
+      <Filter>jsonserial</Filter>
+    </ClInclude>
+    <ClInclude Include="detail\string_stream.hpp">
+      <Filter>jsonserial</Filter>
+    </ClInclude>
+    <ClInclude Include="detail\traits.hpp">
+      <Filter>jsonserial</Filter>
+    </ClInclude>
+    <ClInclude Include="CCrossDataManager.h">
+      <Filter>CRoss</Filter>
+    </ClInclude>
+    <ClInclude Include="gui\src\imgui_dock.h">
+      <Filter>gui</Filter>
+    </ClInclude>
+    <ClInclude Include="CMsgLog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadPool.h">
+      <Filter>threadpool</Filter>
+    </ClInclude>
+    <ClInclude Include="CBaseFactory.h">
+      <Filter>factory</Filter>
+    </ClInclude>
+    <ClInclude Include="CLampDataManager.h">
+      <Filter>CRoss</Filter>
+    </ClInclude>
+    <ClInclude Include="BES200Manager.h">
+      <Filter>能耗</Filter>
+    </ClInclude>
+    <ClInclude Include="DdataManager.h">
+      <Filter>能耗</Filter>
+    </ClInclude>
+    <ClInclude Include="UIManager.h">
+      <Filter>界面UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CComFun.h">
+      <Filter>公用COM</Filter>
+    </ClInclude>
+    <ClInclude Include="ComDef.h">
+      <Filter>公用COM</Filter>
+    </ClInclude>
+    <ClInclude Include="XThreadPool.h">
+      <Filter>threadpool</Filter>
+    </ClInclude>
+    <ClInclude Include="CMsgFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMsgFactoryControl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="gui\src\imgui_memory_editor.h">
+      <Filter>gui</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="cmdline.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CLampType1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CXBuffer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CXTcp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="gloable.h">
+      <Filter>能耗</Filter>
+    </ClInclude>
+    <ClInclude Include="CXWebMsgQueen.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="zc_lock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="log4z.h">
+      <Filter>log4</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BESService.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="json\json_reader.cpp">
+      <Filter>JSON</Filter>
+    </ClCompile>
+    <ClCompile Include="json\json_value.cpp">
+      <Filter>JSON</Filter>
+    </ClCompile>
+    <ClCompile Include="json\json_writer.cpp">
+      <Filter>JSON</Filter>
+    </ClCompile>
+    <ClCompile Include="soapC.cpp">
+      <Filter>soap</Filter>
+    </ClCompile>
+    <ClCompile Include="soapServer.cpp">
+      <Filter>soap</Filter>
+    </ClCompile>
+    <ClCompile Include="stdsoap2.cpp">
+      <Filter>soap</Filter>
+    </ClCompile>
+    <ClCompile Include="TcpSocket.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gui\src\imgui.cpp">
+      <Filter>gui</Filter>
+    </ClCompile>
+    <ClCompile Include="gui\src\imgui_demo.cpp">
+      <Filter>gui</Filter>
+    </ClCompile>
+    <ClCompile Include="gui\src\imgui_draw.cpp">
+      <Filter>gui</Filter>
+    </ClCompile>
+    <ClCompile Include="gui\src\imgui_impl_dx9.cpp">
+      <Filter>gui</Filter>
+    </ClCompile>
+    <ClCompile Include="gui\src\imgui_impl_win32.cpp">
+      <Filter>gui</Filter>
+    </ClCompile>
+    <ClCompile Include="TCP.cpp">
+      <Filter>tcp</Filter>
+    </ClCompile>
+    <ClCompile Include="JsonObejectBase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TestJson.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CCrossDataManager.cpp">
+      <Filter>CRoss</Filter>
+    </ClCompile>
+    <ClCompile Include="gui\src\imgui_dock.cpp">
+      <Filter>gui</Filter>
+    </ClCompile>
+    <ClCompile Include="CMsgLog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CBaseFactory.cpp">
+      <Filter>factory</Filter>
+    </ClCompile>
+    <ClCompile Include="CLampDataManager.cpp">
+      <Filter>CRoss</Filter>
+    </ClCompile>
+    <ClCompile Include="BES200Manager.cpp">
+      <Filter>能耗</Filter>
+    </ClCompile>
+    <ClCompile Include="DdataManager.cpp">
+      <Filter>能耗</Filter>
+    </ClCompile>
+    <ClCompile Include="UIManager.cpp">
+      <Filter>界面UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CComFun.cpp">
+      <Filter>公用COM</Filter>
+    </ClCompile>
+    <ClCompile Include="CMsgFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMsgFactoryControl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CLampType1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CXBuffer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CXTcp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CXWebMsgQueen.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="log4z.cpp">
+      <Filter>log4</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="add.nsmap">
+      <Filter>soap</Filter>
+    </None>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\20181024091330326_128.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\20181024091336461_256.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\20181024091341452_64.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

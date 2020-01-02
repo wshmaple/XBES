@@ -1,0 +1,7 @@
+2019-12-21 23:18:11.733 [8076] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1923
+2019-12-21 23:18:11.734 [8076] LOG_ALARM logger id=0 key=Main name=Main path=./log/ level=1 display=true log4z.cpp:1933
+2019-12-21 23:18:11.734 [8076] LOG_ALARM logger id=1 key=fromfile name=fromfile path=./fromfile/ level=1 display=true log4z.cpp:1933
+2019-12-21 23:18:11.734 [8076] LOG_ALARM logger id=2 key=moniter name=moniter path=./stress/ level=1 display=false log4z.cpp:1933
+2019-12-21 23:18:11.734 [8076] LOG_ALARM logger id=3 key=mysql name=mysql path=./stress/ level=1 display=false log4z.cpp:1933
+2019-12-21 23:18:11.734 [8076] LOG_ALARM logger id=4 key=network name=network path=./stress/ level=1 display=false log4z.cpp:1933
+2019-12-21 23:18:11.734 [13744] LOG_INFO BESService Starting... besservice.cpp:505

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BESService", "BESService\BESService.vcxproj", "{7CC66BFE-F18F-4B19-B604-03C288AD7C3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_vs2013|Win32 = Debug_vs2013|Win32
+		Debug_vs2017|Win32 = Debug_vs2017|Win32
+		Debug|Win32 = Debug|Win32
+		Release_vs2013|Win32 = Release_vs2013|Win32
+		Release_vs2017|Win32 = Release_vs2017|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC66BFE-F18F-4B19-B604-03C288AD7C3F}.Debug_vs2013|Win32.ActiveCfg = Debug_vs2013|Win32
+		{7CC66BFE-F18F-4B19-B604-03C288AD7C3F}.Debug_vs2013|Win32.Build.0 = Debug_vs2013|Win32
+		{7CC66BFE-F18F-4B19-B604-03C288AD7C3F}.Debug_vs2017|Win32.ActiveCfg = Debug_vs2017|Win32
+		{7CC66BFE-F18F-4B19-B604-03C288AD7C3F}.Debug_vs2017|Win32.Build.0 = Debug_vs2017|Win32
+		{7CC66BFE-F18F-4B19-B604-03C288AD7C3F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7CC66BFE-F18F-4B19-B604-03C288AD7C3F}.Debug|Win32.Build.0 = Debug|Win32
+		{7CC66BFE-F18F-4B19-B604-03C288AD7C3F}.Release_vs2013|Win32.ActiveCfg = Release_vs2013|Win32
+		{7CC66BFE-F18F-4B19-B604-03C288AD7C3F}.Release_vs2013|Win32.Build.0 = Release_vs2013|Win32
+		{7CC66BFE-F18F-4B19-B604-03C288AD7C3F}.Release_vs2017|Win32.ActiveCfg = Release_vs2017|Win32
+		{7CC66BFE-F18F-4B19-B604-03C288AD7C3F}.Release_vs2017|Win32.Build.0 = Release_vs2017|Win32
+		{7CC66BFE-F18F-4B19-B604-03C288AD7C3F}.Release|Win32.ActiveCfg = Release|Win32
+		{7CC66BFE-F18F-4B19-B604-03C288AD7C3F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F16BEEA7-744E-47F3-9056-22D46B44C137}
+	EndGlobalSection
+EndGlobal

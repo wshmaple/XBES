@@ -1,0 +1,3868 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CLampType1" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>CLampType1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMsgFactory" Collapsed="true">
+    <Position X="58.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABCAAAAAAAACAAAQAgAIAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMsgFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMsgFactoryControl" Collapsed="true">
+    <Position X="60" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAQCAAAAQAAADAAAAAAAIAIAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>CMsgFactoryControl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMsgLog" Collapsed="true">
+    <Position X="61.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCQEBEAAAAAIAAAAAIACAAIAIAAAAgEAQAAAgAAIAEo=</HashCode>
+      <FileName>CMsgLog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CJsonObejectBase" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAgAAACFBAAAAAAAAAAEAgAA=</HashCode>
+      <FileName>JsonObejectBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLogs" Collapsed="true">
+    <Position X="54.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAgAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTcpSocket" Collapsed="true">
+    <Position X="67" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgQwgAAAAAAAAAAgAIAAAAAAAQACAFCBAgAEAAA=</HashCode>
+      <FileName>TcpSocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTestJson" Collapsed="true">
+    <Position X="3.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQAAAAAAQAAAAAAAACAAAAEAAAAQAAAAAQAAAAA=</HashCode>
+      <FileName>TestJson.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soap_multipart_iterator" Collapsed="true">
+    <Position X="61.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAQAAAAQQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soap_dom_attribute_iterator" Collapsed="true">
+    <Position X="58.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAIAAAAAQAAAAQAAAAAEAAAAgAAgAEAAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soap_dom_element_iterator" Collapsed="true">
+    <Position X="60" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAQAAAAQAAAAAFAAAAAAAgAAABCAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImVector&lt;T&gt;" Collapsed="true">
+    <Position X="47.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAAACECABBAoAAABIMIAAASAAEAABIAAQEgAAACACA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLog4Manager" Collapsed="true">
+    <Position X="53" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIIABAEAAAACAAAAAACAA=</HashCode>
+      <FileName>Log4Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCrossDataManager" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAACGEggiQECA0QAAAJAwRIACaIAQCSAGoACQAWjw=</HashCode>
+      <FileName>CCrossDataManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLampDataManager" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgAAAEAAAAAAAAAAAAAAAAAAAQACACAACAAAAAEAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTCP" Collapsed="true">
+    <Position X="65.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAQAAAAAAEAABIICAIAAAAAQABAAABAAIAA=</HashCode>
+      <FileName>TCP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThreadPool" Collapsed="true">
+    <Position X="65.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACAAAAAAAAAAAAAAIAAAAgACgAAABAAAAgQAA=</HashCode>
+      <FileName>ThreadPool.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBaseFactory" Collapsed="true">
+    <Position X="46" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAIAJAAQAABCAAAAIAIAIAIABAwQAgAAgAAAAI=</HashCode>
+      <FileName>CBaseFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBES200Manager" Collapsed="true">
+    <Position X="47.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAKAADAQAAMAJAGAICAAQBBAhgIAAAAIEIIAAIoQgA=</HashCode>
+      <FileName>BES200Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDdataManager" Collapsed="true">
+    <Position X="51.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgACBYAgQIQBsEBEEAAAggDAQAAQAEAgAACQAAAEA=</HashCode>
+      <FileName>DdataManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager" Collapsed="true">
+    <Position X="67" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAggEACAAAIAIAAABAAAAAAAgAAAAAAACAEAAAAAgAA=</HashCode>
+      <FileName>UIManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CComFun" Collapsed="true">
+    <Position X="49.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAIAAIAAAgAAA=</HashCode>
+      <FileName>CComFun.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cmdline::detail::lexical_cast_t&lt;Target, Source, Same&gt;" Collapsed="true">
+    <Position X="49.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cmdline.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cmdline::detail::lexical_cast_t&lt;Target, Source, true&gt;" Collapsed="true">
+    <Position X="51.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cmdline.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cmdline::detail::lexical_cast_t&lt;std::string, Source, false&gt;" Collapsed="true">
+    <Position X="53" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cmdline.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cmdline::cmdline_error" Collapsed="true">
+    <Position X="56.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAQAAAAAAAQAAAAIAAA=</HashCode>
+      <FileName>cmdline.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cmdline::parser" Collapsed="true">
+    <Position X="54.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAQAAAAICAAAAAUAYgAgAQAAEAAAAQEAABQCIAA=</HashCode>
+      <FileName>cmdline.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::DefaultValueAllocator" Collapsed="true">
+    <Position X="46" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAEAAAAAAABAAAAAAGAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>json\json_value.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="terra::csv::csvreader_t" Collapsed="true">
+    <Position X="63.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAgQEAAAAECAAAqAAKAQEAAIAAAAAAAIAABIBAQA=</HashCode>
+      <FileName>csv.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="terra::json::reader_t" Collapsed="true">
+    <Position X="56.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGACAjQEIIAAEAREAqEACIAEAAAAAAAAAAAUAgIBAAA=</HashCode>
+      <FileName>json.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="std::threadpool" Collapsed="true">
+    <Position X="63.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAhABIAABAAAAAAgAACAAAAAQCAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>XThreadPool.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="_TCP_SOCK_CLIENTS_" Collapsed="true">
+    <Position X="33.5" Y="45.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAEAAAIAAAAAFBARAAAA=</HashCode>
+      <FileName>TcpSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ns__GetInfoResponse" Collapsed="true">
+    <Position X="56.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>soapStub.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ns__GetInfo" Collapsed="true">
+    <Position X="54.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>soapStub.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SOAP_ENV__Header" Collapsed="true">
+    <Position X="53" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>soapStub.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SOAP_ENV__Code" Collapsed="true">
+    <Position X="47.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>soapStub.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SOAP_ENV__Detail" Collapsed="true">
+    <Position X="49.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAIAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>soapStub.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SOAP_ENV__Reason" Collapsed="true">
+    <Position X="54.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>soapStub.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SOAP_ENV__Fault" Collapsed="true">
+    <Position X="51.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAACAAAAAAAAQCAAFBAAIAAAAAAIAAAAAAA=</HashCode>
+      <FileName>soapStub.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Namespace" Collapsed="true">
+    <Position X="53" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAgA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_nlist" Collapsed="true">
+    <Position X="65.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgAAAAAIBAgA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_blist" Collapsed="true">
+    <Position X="58.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAEAAAAAAAAIAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_array" Collapsed="true">
+    <Position X="54.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_plist" Collapsed="true">
+    <Position X="46" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAABAEAAAJAAAAIAAgA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_pblk" Collapsed="true">
+    <Position X="67" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_mlist" Collapsed="true">
+    <Position X="61.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAEAABAAAAAIAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_clist" Collapsed="true">
+    <Position X="60" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAIAAAAAAAAABAEAAAAAAAAIAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_attribute" Collapsed="true">
+    <Position X="56.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAEACAAgAAACAIAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_cookie" Collapsed="true">
+    <Position X="63.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICACAAAAEAAAAAECAQAAEAAEACAAAAAAAAIAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_dime" Collapsed="true">
+    <Position X="65.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAgACAAAAAAgABIEAAAAQAAABAEAAABAAAAAAAgQ=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_mime" Collapsed="true">
+    <Position X="60" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgACAAAAAAAgAAEAAAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_multipart" Collapsed="true">
+    <Position X="63.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAIIAAAAACAAABAMAAAAAAAAIAAgA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_xlist" Collapsed="true">
+    <Position X="49.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAIAAAAAAAAABAEAAAAAAAAIAAgA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_dom_attribute" Collapsed="true">
+    <Position X="67" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAIAAAAgAAQAAAAQAAEEAAAAGAAQAAIADAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_dom_element" Collapsed="true">
+    <Position X="46" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAACiAIAABAAAAQAAAAQAAEFBAAACAAQAAICDgA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap" Collapsed="true">
+    <Position X="53" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>A/5PzzUyieoYTiqDFcl7akDmge9rsu5U4tv2a8cuLzA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_code_map" Collapsed="true">
+    <Position X="61.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_flist" Collapsed="true">
+    <Position X="56.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAEBAEAAAAAAAAJAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_ilist" Collapsed="true">
+    <Position X="58.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAEBAEKAAAAAAAIAAkA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="soap_plugin" Collapsed="true">
+    <Position X="47.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAQAAJAAgA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiResizeGripDef" Collapsed="true">
+    <Position X="47.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAiAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiStyleVarInfo" Collapsed="true">
+    <Position X="58.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAAAAAAgAA=</HashCode>
+      <FileName>gui\src\imgui.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiDataTypeInfo" Collapsed="true">
+    <Position X="47.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAACEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiPlotArrayGetterData" Collapsed="true">
+    <Position X="67" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ExampleAppConsole" Collapsed="true">
+    <Position X="58.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABBgACACAAKhQAAAIAAQAAgAAAQAAAAAACAgQAAAA=</HashCode>
+      <FileName>gui\src\imgui_demo.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ExampleAppLog" Collapsed="true">
+    <Position X="60" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAACAAAAgAAAAAAAAAAABAAAAAAAAAAAgBAAAA=</HashCode>
+      <FileName>gui\src\imgui_demo.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DockContext" Collapsed="true">
+    <Position X="51.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAASTBgSAAwgAAAAAAAAiRAfABDAEAwAAAQAgYAAAEk=</HashCode>
+      <FileName>gui\src\imgui_dock.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="readHelper" Collapsed="true">
+    <Position X="47.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_dock.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CUSTOMVERTEX" Collapsed="true">
+    <Position X="65.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>gui\src\imgui_impl_dx9.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImVec2" Collapsed="true">
+    <Position X="49.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAEAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImVec4" Collapsed="true">
+    <Position X="51.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAhgAQAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiStyle" Collapsed="true">
+    <Position X="54.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YQQYBAEEAAAAlIEAAAIAAAAIECQYCBJAAAAEgQAEIBE=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiIO" Collapsed="true">
+    <Position X="53" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cPJgSBAIIiYFAYAhhQh5RkCBEEUgmBwwFaglgAKICCk=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImNewDummy" Collapsed="true">
+    <Position X="46" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiOnceUponAFrame" Collapsed="true">
+    <Position X="63.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiTextFilter" Collapsed="true">
+    <Position X="61.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAgCAEIAAAAAAgAAAgAAAAAAAAABAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiTextBuffer" Collapsed="true">
+    <Position X="60" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIgAAACAAAAAAAEAIAAAAASBAEAAAIAAAAAAAAAAAg=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiStorage" Collapsed="true">
+    <Position X="53" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACAgAACgAAgAIAAAAAACAAAAAAVAAAAAAAADAAYA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiInputTextCallbackData" Collapsed="true">
+    <Position X="43.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIARAACAAASAggAAEAAAAAAAAAAAAAAEQAgAAAIAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiSizeCallbackData" Collapsed="true">
+    <Position X="51.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAACAAgAAAAAAAAAIAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiPayload" Collapsed="true">
+    <Position X="65.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAQAIIAEAEACAAAAABAAAAAABAABAQAAABAAAg=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImColor" Collapsed="true">
+    <Position X="65.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAIABgAAAAAAg=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiListClipper" Collapsed="true">
+    <Position X="56.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAgIAgAIAAAggAAAAAAAAAAgAEAAAIAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImDrawCmd" Collapsed="true">
+    <Position X="46" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAJACAAAAEAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImDrawVert" Collapsed="true">
+    <Position X="54.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImDrawChannel" Collapsed="true">
+    <Position X="67" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImDrawList" Collapsed="true">
+    <Position X="51.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AExgdaCEAGQyIAEBAMF2gKAAUBAEQAAQyKAkEVdigQA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImDrawData" Collapsed="true">
+    <Position X="47.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAABIAAAAAAAQQFAAAAAAAAAAIAAAAAAJABAACA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImFontConfig" Collapsed="true">
+    <Position X="60" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQgAABAAAAgAAAAAGAgBAwAARAAAAEAAAAAAABAIAk=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImFontGlyph" Collapsed="true">
+    <Position X="61.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAgAIABEgASYAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImFontAtlas" Collapsed="true">
+    <Position X="58.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQyBAEoAAEAJAAACBIAEBACUAABggIBAAADhBRJoKE=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImFont" Collapsed="true">
+    <Position X="56.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEiYKAAIBAAAAQIAAIACgcAIAEAAAIggIYQAMCBEAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImRect" Collapsed="true">
+    <Position X="47.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIBABAAABCAAQiAEAAAAAFA4RAAAAQAAAAEAEAQAAQ=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiColorMod" Collapsed="true">
+    <Position X="63.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiStyleMod" Collapsed="true">
+    <Position X="56.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiGroupData" Collapsed="true">
+    <Position X="49.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAACAAAAAEAACEAACAAIAQAAAAAAQQAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiMenuColumns" Collapsed="true">
+    <Position X="58.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQEAAAAAAAAAAAAAAAUQAAACCBAAAAACAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiInputTextState" Collapsed="true">
+    <Position X="51.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEBAAQAiEAgAgAAIICAAAAQQQAAUAFAABAAAAAAgE=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiWindowSettings" Collapsed="true">
+    <Position X="65.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAgAAAAAAAAAQAAACAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiSettingsHandler" Collapsed="true">
+    <Position X="49.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAEAAAAAAAAAAAAAABAAAAAAAABAgAAAAAAEIAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiPopupRef" Collapsed="true">
+    <Position X="46" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAgAAAAAAAABAAAAAAAAgiACAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiColumnData" Collapsed="true">
+    <Position X="65.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABgAgAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiColumnsSet" Collapsed="true">
+    <Position X="67" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAQBkAQAABAgAEAAAGAACQAAAAAAAAAAAAAAAhAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImDrawListSharedData" Collapsed="true">
+    <Position X="53" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAACQAAAgAAACAAAAAAAAAAAAAKAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImDrawDataBuilder" Collapsed="true">
+    <Position X="49.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAQBAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiNavMoveResult" Collapsed="true">
+    <Position X="60" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAQEAgAAAAAAAAAAAAAAAAAAAAAAACABACAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiNextWindowData" Collapsed="true">
+    <Position X="61.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAIBAQAMABgAQAAAAQAAAGAAABCAAAEAEAAAAhAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiContext" Collapsed="true">
+    <Position X="46" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MBv7WhS4QHiEmwYAIMvJggSfmBXvCp3X9VfJE2IK9Ss=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiWindowTempData" Collapsed="true">
+    <Position X="67" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAADFxgABCACFIKBEgAAKCAAEAoABAAAUCCgaAACACA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiWindow" Collapsed="true">
+    <Position X="63.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gxQAhAAFQSIRxSQoRiiDoRQEAyTYYksg5QChSAAGOFw=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImGuiItemHoveredDataBackup" Collapsed="true">
+    <Position X="54.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAABCABAAAAAAAAAACAAAAEAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MemoryEditor" Collapsed="true">
+    <Position X="63.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QADSAECAAAGEMAgBEAAAIIEQikAUIQBggAANEggkBAA=</HashCode>
+      <FileName>gui\src\imgui_memory_editor.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="stbrp_context" Collapsed="true">
+    <Position X="51.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAgAAEACQAQAAAAAAAAQQAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>gui\src\stb_rect_pack.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="stbrp_node" Collapsed="true">
+    <Position X="53" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAIAAAA=</HashCode>
+      <FileName>gui\src\stb_rect_pack.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="stbrp_rect" Collapsed="true">
+    <Position X="54.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAhgCAAAAgA=</HashCode>
+      <FileName>gui\src\stb_rect_pack.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0015_3" Collapsed="true">
+    <Position X="25.5" Y="43.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_rect_pack.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0016_1" Collapsed="true">
+    <Position X="1.5" Y="43.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAEAACAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_textedit.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0016_2" Collapsed="true">
+    <Position X="42.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAEAIAAAAAoAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_textedit.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0016_3" Collapsed="true">
+    <Position X="41.5" Y="40.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIIAAEAAABAAAAEEAAAAAAAQAAAAAIAAhAAAABAACAA=</HashCode>
+      <FileName>gui\src\stb_textedit.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0016_4" Collapsed="true">
+    <Position X="41.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAIAAAABAAACAAAAAAEAAEAA=</HashCode>
+      <FileName>gui\src\stb_textedit.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0016_5" Collapsed="true">
+    <Position X="41.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAQAAEACAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_textedit.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0017_1" Collapsed="true">
+    <Position X="41.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAIAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0017_2" Collapsed="true">
+    <Position X="41.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABgAACAASAAAQAQAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0017_3" Collapsed="true">
+    <Position X="41.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIRgAACAQQgAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0017_4" Collapsed="true">
+    <Position X="41.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAQAAAAAAAAAAABgAACAASAAAQAQAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="stbtt_pack_context" Collapsed="true">
+    <Position X="65.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAUAQAAAAABAAAAAAAgAAAAAAAECIAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="stbtt_fontinfo" Collapsed="true">
+    <Position X="63.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAAAAEiAQAiBAAAQgABAQAAAAACAAAAQAQAIAgAEA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0017_5" Collapsed="true">
+    <Position X="29.5" Y="41.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAoAAAAAAAAAAAAABAAAAAAAgAAAAAAAEAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0017_7" Collapsed="true">
+    <Position X="17.5" Y="41.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAABAAAAAABgAAACgAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0017_8" Collapsed="true">
+    <Position X="37.5" Y="40.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAQAkAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0017_15" Collapsed="true">
+    <Position X="33.5" Y="40.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAALAAABAAAEAgEAAAAAAAAAAABiACAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="stbtt__hheap_chunk" Collapsed="true">
+    <Position X="61.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="stbtt__hheap" Collapsed="true">
+    <Position X="60" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAIIAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="stbtt__edge" Collapsed="true">
+    <Position X="58.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAABgAACAAQAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="stbtt__active_edge" Collapsed="true">
+    <Position X="56.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIABAAAAQAAAAAAAAAAAAAABAAAIBFAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0017_16" Collapsed="true">
+    <Position X="21.5" Y="40.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0017_17" Collapsed="true">
+    <Position X="46" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAAAAAAAAQAAAABgAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0017_18" Collapsed="true">
+    <Position X="47.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_LAMP_BEGP_REQ_PACKETDATA_ADD_MODULE_" Collapsed="true">
+    <Position X="13.5" Y="40.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAIggAAAAAIAAAQQAACAAAAgAAAAAAABAAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_LAMP_BEGP_CONTROL_POINT_" Collapsed="true">
+    <Position X="9.5" Y="40.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgAAAAAQAACAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_LAMP_BEGP_CONTROL_MODE_" Collapsed="true">
+    <Position X="39.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAgAAAAAAAAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_LAMP_BEGP_CONTROL_SCENE_PARAMETER_" Collapsed="true">
+    <Position X="5.5" Y="39.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAIAgAAAAAAAAAQAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_LAMP_BEGP_COLLECT_POINT_" Collapsed="true">
+    <Position X="38.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgAAAgEAAAAEA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_LAMP_BEGP_COLLECT_MODE_" Collapsed="true">
+    <Position X="37.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAQAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_LAMP_BEGP_COLLECT_SCENE_PARAMETER_" Collapsed="true">
+    <Position X="37.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAgAAAAAAAAAQAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_TCP_SOCK_CLIENT_" Collapsed="true">
+    <Position X="37.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAIAAAAAEBARAAAA=</HashCode>
+      <FileName>TCP.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cmdline::detail::is_same&lt;T1, T2&gt;" Collapsed="true">
+    <Position X="58.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>cmdline.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cmdline::detail::is_same&lt;T, T&gt;" Collapsed="true">
+    <Position X="56.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>cmdline.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cmdline::default_reader&lt;T&gt;" Collapsed="true">
+    <Position X="67" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cmdline.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cmdline::range_reader&lt;T&gt;" Collapsed="true">
+    <Position X="46" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAEAAACAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cmdline.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cmdline::oneof_reader&lt;T&gt;" Collapsed="true">
+    <Position X="58.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAACCAAA=</HashCode>
+      <FileName>cmdline.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::CollectControllerParameter" Collapsed="true">
+    <Position X="37.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgggAAABIAAAQIAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::CollectControllerParameterTest" Collapsed="true">
+    <Position X="1.5" Y="38.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgggAAABIAAAQIAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::CollectControllerInfo" Collapsed="true">
+    <Position X="49.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABIgggABABIAAAQIIAQAAAAgAAiAIQAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::MeterElectricData" Collapsed="true">
+    <Position X="65.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQgAAAAACAACAAgIAAAIAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::ElectricDataInfo" Collapsed="true">
+    <Position X="56.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAgAAAAAAAACAAAAAAAQgAAAAAAAAAAAUAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::ElectricDataCollectMethod" Collapsed="true">
+    <Position X="54.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::MeterParameter" Collapsed="true">
+    <Position X="47.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgAAIAIAIAAAEAAEAIAAghAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::MeterElectricHisData" Collapsed="true">
+    <Position X="67" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQgAAAAACAACAAgIAAAIAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::MeterHisElectricData" Collapsed="true">
+    <Position X="46" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAEAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::AlarmInfor" Collapsed="true">
+    <Position X="67" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIEAABAIAAQAAAAACQIAAAAIAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_REQ_HEAD_" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAABAABAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_RSP_HEAD_" Collapsed="true">
+    <Position X="13.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAABAABAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_RSP_PACKETDATA_ECHO_" Collapsed="true">
+    <Position X="9.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_REQ_PACKETDATA_ADD_CONTROLLER_PARAMETER_" Collapsed="true">
+    <Position X="5.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgggAAABIAAAQIAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_REQ_PACKETDATA_SET_CONTROLLER_PARAMETER_" Collapsed="true">
+    <Position X="12.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgggAAABIAAAQIAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_RSP_PACKETDATA_GET_CONTROLLER_PARAMETER_" Collapsed="true">
+    <Position X="1.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgggAAABIAAAQIAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_REQ_PACKETDATA_SET_CONTROLLER_TIME_" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAgAAAAAAAQQAAAAAAAAiAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_RSP_PACKETDATA_GET_CONTROLLER_TIME_" Collapsed="true">
+    <Position X="8.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAgAAAAAAAQQAAAAAAAAiAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_RSP_PACKETDATA_GET_CONTROLLER_INFO_" Collapsed="true">
+    <Position X="4.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABIgggABABIAAAQIIAQAAAAgAAiAIQAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_REQ_PACKETDATA_SET_CONTROLLER_INFO_" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABIgggABABIAAAQIIAQAAAAgAAiAIQAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_REQ_PACKETDATA_ADD_METER_" Collapsed="true">
+    <Position X="35.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgAAIAIAIAAAEAAEAIAAghAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_REQ_PACKETDATA_SET_METER_PARAMETER_" Collapsed="true">
+    <Position X="33.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgAAIAIAIAAAEAAEAIAAghAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_REQ_PACKETDATA_DELETE_METER_" Collapsed="true">
+    <Position X="21.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_REQ_PACKETDATA_GET_METER_PARAMETER_" Collapsed="true">
+    <Position X="13.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_RSP_PACKETDATA_GET_METER_PARAMETER_" Collapsed="true">
+    <Position X="9.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgAAIAIAIAAAEAAEAIAAghAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_REQ_PACKETDATA_GET_METER_RTDATA_" Collapsed="true">
+    <Position X="34.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_RSP_PACKETDATA_GET_METER_RTDATA_" Collapsed="true">
+    <Position X="33.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQgAAAAACAACAAgIAAAIAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_REQ_PACKETDATA_GET_METER_HISDATA_" Collapsed="true">
+    <Position X="33.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_RSP_PACKETDATA_GET_METER_HISDATA_" Collapsed="true">
+    <Position X="33.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAEAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Bes::_BEGP_RSP_PACKETDATA_GET_ALARMINFO_" Collapsed="true">
+    <Position X="33.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIEAABAIAAQAAAAACQIAAAAIAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Json::DummyValueAllocatorInitializer" Collapsed="true">
+    <Position X="53" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>json\json_value.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::ControllerParameter" Collapsed="true">
+    <Position X="60" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIggAAAABIAAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::ControllerInfo" Collapsed="true">
+    <Position X="58.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAABAAAAAAQAIAQAAAAAAAiAIQAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::ModuleParameter" Collapsed="true">
+    <Position X="49.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIggAAAAAIAAAQAAACAACAgAAAAAAABAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::LogicalPointParameterLAI" Collapsed="true">
+    <Position X="46" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQYIIAAIggAAAIBAAABQgAAgAAAAgAAEAAAgBEAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::LogicalPointParameterLAO" Collapsed="true">
+    <Position X="47.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQYIIAAIggAAAIBAAABQgAAgAAAAgAAEAAAgBEAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::LogicalPointParameterLDI" Collapsed="true">
+    <Position X="49.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQIAIAAIgiAAAABAAABQgAAgAAAAgAAAAAAgBACA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::LogicalPointParameterLDO" Collapsed="true">
+    <Position X="51.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQIAIAAIgiAAAABAAABQgAAgAAAAgAAAAAAgBAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::LogicalPointParameterVirtualAI" Collapsed="true">
+    <Position X="53" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAIggAAAIBAAABQgAAAAAAAgAAEAAAgBEAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::LogicalPointParameterVirtualAO" Collapsed="true">
+    <Position X="54.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAIggAAAIBAAABQgAAAAAAAgAAEAAAgBEAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::LogicalPointParameterVirtualDI" Collapsed="true">
+    <Position X="56.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgiAAAABAAABQgAAAAAAAgAAAAAAgBAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::LogicalPointParameterVirtualDO" Collapsed="true">
+    <Position X="58.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgiAAAABAAABQgAAAAAAAgAAAAAAgBAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::LogicalPointParameter" Collapsed="true">
+    <Position X="67" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::LogicalPointAlarmInfor" Collapsed="true">
+    <Position X="65.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAgAAAAAAAAAAABAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::LogicalPointvalue" Collapsed="true">
+    <Position X="60" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAgAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::Control_Point" Collapsed="true">
+    <Position X="56.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgAAAAAQAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::Control_Mode" Collapsed="true">
+    <Position X="54.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAgAAAAAAAAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::ControlSceneParameter" Collapsed="true">
+    <Position X="61.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAIAgAAAAAAAAAQAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::Collect_Point" Collapsed="true">
+    <Position X="47.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgAAAgEAAAAEA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::Collect_Mode" Collapsed="true">
+    <Position X="46" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAQAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::CollectSceneParameter" Collapsed="true">
+    <Position X="51.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAgAAAAAAAAAQAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::SceneParameter" Collapsed="true">
+    <Position X="49.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::SchedulerParameter" Collapsed="true">
+    <Position X="51.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACIAAIAAAAYEAAQAAUAAAgEQQQkAQQAQAAAABg=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_HEAD_" Collapsed="true">
+    <Position X="49.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAABAABAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_RSP_HEAD_" Collapsed="true">
+    <Position X="58.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAABAABAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_RSP_PACKETDATA_ECHO_" Collapsed="true">
+    <Position X="60" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_ADD_CONTROLLER_PARAMETER_" Collapsed="true">
+    <Position X="51.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIggAAAABIAAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_SET_CONTROLLER_PARAMETER_" Collapsed="true">
+    <Position X="54.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIggAAAABIAAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_SET_CONTROLLER_TIME_" Collapsed="true">
+    <Position X="56.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAgAAAAAAAQQAAAAAAAAiAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_RSP_PACKETDATA_GET_CONTROLLER_TIME_" Collapsed="true">
+    <Position X="65.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAgAAAAAAAQQAAAAAAAAiAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_RSP_PACKETDATA_GET_CONTROLLER_PARAMETER_" Collapsed="true">
+    <Position X="63.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIggAAAABIAAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_RSP_PACKETDATA_GET_CONTROLLER_INFO_" Collapsed="true">
+    <Position X="61.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAABAAAAAAQAIAQAAAAAAAiAIQAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_SET_CONTROLLER_INFO_" Collapsed="true">
+    <Position X="53" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAABAAAAAAQAIAQAAAAAAAiAIQAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_ADD_MODULE_" Collapsed="true">
+    <Position X="25.5" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIggAAAAAIAAAQAAACAACAgAAAAAAABAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_SET_MODULE_PARAMETER_" Collapsed="true">
+    <Position X="1.5" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIggAAAAAIAAAQAAACAACAgAAAAAAABAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_DELETE_MODULE_" Collapsed="true">
+    <Position X="31.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_GET_MODULE_PARAMETER_" Collapsed="true">
+    <Position X="29.5" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_RSP_PACKETDATA_GET_MODULE_PARAMETER_" Collapsed="true">
+    <Position X="17.5" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIggAAAAAIAAAQAAACAACAgAAAAAAABAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_GET_MODULE_ERROR_CODE_" Collapsed="true">
+    <Position X="30.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_RSP_PACKETDATA_GET_MODULE_ERROR_CODE_" Collapsed="true">
+    <Position X="29.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_LOGICAL_POINT_PARAMETER_LAI_" Collapsed="true">
+    <Position X="21.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQYIIAAIggAAAIBAAABQgAAgAAAAgAAEAAAgBEAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_LOGICAL_POINT_PARAMETER_LAO_" Collapsed="true">
+    <Position X="29.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQYIIAAIggAAAIBAAABQgAAgAAAAgAAEAAAgBEAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_LOGICAL_POINT_PARAMETER_LDI_" Collapsed="true">
+    <Position X="29.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQIAIAAIgiAAAABAAABQgAAgAAAAgAAAAAAgBACA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_LOGICAL_POINT_PARAMETER_LDO_" Collapsed="true">
+    <Position X="13.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQIAIAAIgiAAAABAAABQgAAgAAAAgAAAAAAgBAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_LOGICAL_POINT_PARAMETER_VAI_" Collapsed="true">
+    <Position X="29.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAIggAAAIBAAABQgAAAAAAAgAAEAAAgBEAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_LOGICAL_POINT_PARAMETER_VAO_" Collapsed="true">
+    <Position X="9.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAIggAAAIBAAABQgAAAAAAAgAAEAAAgBEAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_LOGICAL_POINT_PARAMETER_VDI_" Collapsed="true">
+    <Position X="5.5" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgiAAAABAAABQgAAAAAAAgAAAAAAgBAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_LOGICAL_POINT_PARAMETER_VDO_" Collapsed="true">
+    <Position X="25.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgiAAAABAAABQgAAAAAAAgAAAAAAgBAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_ADD_LOGICAL_POINT_" Collapsed="true">
+    <Position X="27.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_SET_LOGICAL_POINT_PARAMETER_" Collapsed="true">
+    <Position X="1.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_SET_LOGICAL_POINT_VALUE_" Collapsed="true">
+    <Position X="25.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAgAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_SET_LOGICAL_POINT_VALUE_BY_NAME_" Collapsed="true">
+    <Position X="17.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_DELETE_LOGICAL_POINT_" Collapsed="true">
+    <Position X="25.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_GET_LOGICAL_POINT_PARAMETER_" Collapsed="true">
+    <Position X="25.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_RSP_PACKETDATA_GET_LOGICAL_POINT_PARAMETER_" Collapsed="true">
+    <Position X="21.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_GET_LOGICAL_POINT_ALARM_INFOR_" Collapsed="true">
+    <Position X="13.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_RSP_PACKETDATA_GET_LOGICAL_POINT_ALARM_INFOR_" Collapsed="true">
+    <Position X="9.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAgAAAAAAAAAAABAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_CONTROL_POINT_" Collapsed="true">
+    <Position X="24.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgAAAAAQAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_CONTROL_MODE_" Collapsed="true">
+    <Position X="23.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAgAAAAAAAAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_CONTROL_SCENE_PARAMETER_" Collapsed="true">
+    <Position X="5.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAIAgAAAAAAAAAQAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_COLLECT_POINT_" Collapsed="true">
+    <Position X="23.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgAAAgEAAAAEA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_COLLECT_MODE_" Collapsed="true">
+    <Position X="1.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAQAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_COLLECT_SCENE_PARAMETER_" Collapsed="true">
+    <Position X="21.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAgAAAAAAAAAQAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_ADD_SCENE_" Collapsed="true">
+    <Position X="21.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_SET_SCENE_PARAMETER_" Collapsed="true">
+    <Position X="17.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_DELETE_SCENE_" Collapsed="true">
+    <Position X="20.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_GET_SCENE_PARAMETER_" Collapsed="true">
+    <Position X="13.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_RSP_PACKETDATA_GET_SCENE_PARAMETER_" Collapsed="true">
+    <Position X="19.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_ADD_SCHEDULER_" Collapsed="true">
+    <Position X="9.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACIAAIAgAAYEAAQAAUAAAgEQQQkAQQAQAAAABg=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_SET_SCHEDULER_PARAMETER_" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACIAAIAgAAYEAAQAAUAAAgEQQQkAQQAQAAAABg=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_DELETE_SCHEDULER_" Collapsed="true">
+    <Position X="5.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_REQ_PACKETDATA_GET_SCHEDULER_PARAMETER_" Collapsed="true">
+    <Position X="17.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gloable_Cross::_BEGP_RSP_PACKETDATA_GET_SCHEDULER_PARAMETER_" Collapsed="true">
+    <Position X="1.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACIAAIAAAAYEAAQAAUAAAgEQQQkAQQAQAAAABg=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::Error::Head_Parse_Error" Collapsed="true">
+    <Position X="63.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>csv.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::Error::Synax_Error" Collapsed="true">
+    <Position X="47.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>csv.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::detail::string_ref" Collapsed="true">
+    <Position X="67" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAECAAQAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>csv.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::column_info" Collapsed="true">
+    <Position X="53" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>csv.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::token" Collapsed="true">
+    <Position X="54.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAABACAAAAAAAAAAAAA=</HashCode>
+      <FileName>csv.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::basic_string_stream&lt;alloc_ty&gt;" Collapsed="true">
+    <Position X="16.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAiQAAAgAQCAAAKCAAgAAACAgAAKAAAQIQAAAgAAA=</HashCode>
+      <FileName>detail\string_stream.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::is_signed_intergral_like&lt;T&gt;" Collapsed="true">
+    <Position X="61.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\traits.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::is_unsigned_intergral_like&lt;T&gt;" Collapsed="true">
+    <Position X="63.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\traits.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::is_template_instant_of&lt;U&lt;...&gt;, T&gt;" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\traits.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::is_stdstring&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\traits.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::is_tuple&lt;T&gt;" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\traits.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::is_sequence_container&lt;T&gt;" Collapsed="true">
+    <Position X="60" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\traits.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::is_associat_container&lt;T&gt;" Collapsed="true">
+    <Position X="53" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\traits.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::is_emplace_back_able&lt;T&gt;" Collapsed="true">
+    <Position X="54.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\traits.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::disjunction&lt;...&gt;" Collapsed="true">
+    <Position X="46" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\traits.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::disjunction&lt;B1&gt;" Collapsed="true">
+    <Position X="47.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\traits.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::disjunction&lt;B1, Bn...&gt;" Collapsed="true">
+    <Position X="49.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\traits.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::has_type&lt;T, std::tuple&lt;Us...&gt;&gt;" Collapsed="true">
+    <Position X="61.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\traits.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::make_void&lt;...Ts&gt;" Collapsed="true">
+    <Position X="61.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\traits.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="dec_::MulInv&lt;UInt, A, M, S&gt;" Collapsed="true">
+    <Position X="51.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAoAAAAAAAAA=</HashCode>
+      <FileName>detail\itoa.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="dec_::UT&lt;N, N, T, Ts...&gt;" Collapsed="true">
+    <Position X="56.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\itoa.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="dec_::QR&lt;N&gt;" Collapsed="true">
+    <Position X="67" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACABAAAAAAA=</HashCode>
+      <FileName>detail\itoa.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="dec_::convert&lt;D&gt;" Collapsed="true">
+    <Position X="63.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAgAAAAABAACAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>detail\itoa.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::json::to_function_traits&lt;true&gt;" Collapsed="true">
+    <Position X="49.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>json.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::json::to_function_traits&lt;false&gt;" Collapsed="true">
+    <Position X="51.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>json.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::json::token" Collapsed="true">
+    <Position X="53" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAABACAAAAAAAAAAAAA=</HashCode>
+      <FileName>json.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::json::parse_function_traits&lt;true&gt;" Collapsed="true">
+    <Position X="61.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>json.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::json::parse_function_traits&lt;false&gt;" Collapsed="true">
+    <Position X="60" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>json.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::json::parse_function_traits0&lt;true&gt;" Collapsed="true">
+    <Position X="65.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>json.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::json::parse_function_traits0&lt;false&gt;" Collapsed="true">
+    <Position X="63.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>json.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="terra::json::detail::string_ref" Collapsed="true">
+    <Position X="46" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAECAAQAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>json.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="Gloable_Bes::_TAG_CollectControllerParameter" Collapsed="true">
+    <Position X="37.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::_TAG_CollectControllerParameterTest" Collapsed="true">
+    <Position X="1.5" Y="40.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_FUNCODE_TYPE_T" Collapsed="true">
+    <Position X="29.5" Y="38.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_PACKETDATA_ECHO_CODE_TYPE_T" Collapsed="true">
+    <Position X="17.5" Y="38.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_REQ_HEAD_T" Collapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_RSP_HEAD_T" Collapsed="true">
+    <Position X="15.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_RSP_PACKETDATA_ECHO_T" Collapsed="true">
+    <Position X="9.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_REQ_PACKETDATA_ADD_CONTROLLER_PARAMETER_T" Collapsed="true">
+    <Position X="5.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_REQ_PACKETDATA_SET_CONTROLLER_PARAMETER_T" Collapsed="true">
+    <Position X="12.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_RSP_PACKETDATA_GET_CONTROLLER_PARAMETER_T" Collapsed="true">
+    <Position X="1.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_REQ_PACKETDATA_SET_CONTROLLER_TIME_T" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_RSP_PACKETDATA_GET_CONTROLLER_TIME_T" Collapsed="true">
+    <Position X="9.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_RSP_PACKETDATA_GET_CONTROLLER_INFO_T" Collapsed="true">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_REQ_PACKETDATA_SET_CONTROLLER_INFO_T" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_REQ_PACKETDATA_ADD_METER_T" Collapsed="true">
+    <Position X="35.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_REQ_PACKETDATA_SET_METER_PARAMETER_T" Collapsed="true">
+    <Position X="33.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_REQ_PACKETDATA_DELETE_METER_T" Collapsed="true">
+    <Position X="21.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_REQ_PACKETDATA_GET_METER_PARAMETER_T" Collapsed="true">
+    <Position X="13.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_RSP_PACKETDATA_GET_METER_PARAMETER_T" Collapsed="true">
+    <Position X="9.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_REQ_PACKETDATA_GET_METER_RTDATA_T" Collapsed="true">
+    <Position X="34.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_RSP_PACKETDATA_GET_METER_RTDATA_T" Collapsed="true">
+    <Position X="33.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_REQ_PACKETDATA_GET_METER_HISDATA_T" Collapsed="true">
+    <Position X="33.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_RSP_PACKETDATA_GET_METER_HISDATA_T" Collapsed="true">
+    <Position X="33.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Bes::BEGP_RSP_PACKETDATA_GET_ALARMINFO_T" Collapsed="true">
+    <Position X="33.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TCP_CLIENTSOCKT_TS" Collapsed="true">
+    <Position X="33.5" Y="47.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TcpSocket.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TCP_ERR_T" Collapsed="true">
+    <Position X="21.5" Y="47.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tcpSocketHead.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TCP_SOCKET_STATE_T" Collapsed="true">
+    <Position X="13.5" Y="47.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tcpSocketHead.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TCP_CLIENTSOCKET_STATE_T" Collapsed="true">
+    <Position X="9.5" Y="47.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tcpSocketHead.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="_QName" Collapsed="true">
+    <Position X="46" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>soapStub.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="_XML" Collapsed="true">
+    <Position X="47.75" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>soapStub.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="soap_mode" Collapsed="true">
+    <Position X="65.25" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="soap_wchar" Collapsed="true">
+    <Position X="46" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="soap_walker" Collapsed="true">
+    <Position X="67" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImTextureID" Collapsed="true">
+    <Position X="47.75" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiID" Collapsed="true">
+    <Position X="58.25" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImWchar" Collapsed="true">
+    <Position X="53" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiCol" Collapsed="true">
+    <Position X="61.75" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiCond" Collapsed="true">
+    <Position X="46" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiDataType" Collapsed="true">
+    <Position X="49.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiDir" Collapsed="true">
+    <Position X="51.25" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiKey" Collapsed="true">
+    <Position X="65.25" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiNavInput" Collapsed="true">
+    <Position X="51.25" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiMouseCursor" Collapsed="true">
+    <Position X="46" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiStyleVar" Collapsed="true">
+    <Position X="61.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImDrawCornerFlags" Collapsed="true">
+    <Position X="51.25" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImDrawListFlags" Collapsed="true">
+    <Position X="54.75" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImFontAtlasFlags" Collapsed="true">
+    <Position X="56.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiBackendFlags" Collapsed="true">
+    <Position X="58.25" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiColorEditFlags" Collapsed="true">
+    <Position X="63.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiColumnsFlags" Collapsed="true">
+    <Position X="65.25" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiConfigFlags" Collapsed="true">
+    <Position X="47.75" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiComboFlags" Collapsed="true">
+    <Position X="67" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiDragDropFlags" Collapsed="true">
+    <Position X="53" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiFocusedFlags" Collapsed="true">
+    <Position X="54.75" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiHoveredFlags" Collapsed="true">
+    <Position X="56.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiInputTextFlags" Collapsed="true">
+    <Position X="60" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiSelectableFlags" Collapsed="true">
+    <Position X="54.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiTreeNodeFlags" Collapsed="true">
+    <Position X="63.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiWindowFlags" Collapsed="true">
+    <Position X="65.25" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiInputTextCallback" Collapsed="true">
+    <Position X="5.5" Y="46.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiSizeCallback" Collapsed="true">
+    <Position X="58.25" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImS32" Collapsed="true">
+    <Position X="67" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImU32" Collapsed="true">
+    <Position X="49.5" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImS64" Collapsed="true">
+    <Position X="46" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImU64" Collapsed="true">
+    <Position X="51.25" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiTextEditCallback" Collapsed="true">
+    <Position X="5.5" Y="44.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiTextEditCallbackData" Collapsed="true">
+    <Position X="43.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImDrawCallback" Collapsed="true">
+    <Position X="49.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImDrawIdx" Collapsed="true">
+    <Position X="53" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiLayoutType" Collapsed="true">
+    <Position X="67" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiButtonFlags" Collapsed="true">
+    <Position X="60" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiItemFlags" Collapsed="true">
+    <Position X="61.75" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiItemStatusFlags" Collapsed="true">
+    <Position X="63.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiNavHighlightFlags" Collapsed="true">
+    <Position X="49.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiNavDirSourceFlags" Collapsed="true">
+    <Position X="47.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiNavMoveFlags" Collapsed="true">
+    <Position X="53" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiSeparatorFlags" Collapsed="true">
+    <Position X="56.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ImGuiSliderFlags" Collapsed="true">
+    <Position X="60" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbrp_coord" Collapsed="true">
+    <Position X="47.75" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_rect_pack.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbrp__findresult" Collapsed="true">
+    <Position X="25.5" Y="45.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_rect_pack.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="StbUndoRecord" Collapsed="true">
+    <Position X="1.5" Y="45.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_textedit.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="StbUndoState" Collapsed="true">
+    <Position X="42.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_textedit.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="STB_TexteditState" Collapsed="true">
+    <Position X="41.5" Y="42.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_textedit.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="StbTexteditRow" Collapsed="true">
+    <Position X="41.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_textedit.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="StbFindState" Collapsed="true">
+    <Position X="41.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_textedit.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt_uint8" Collapsed="true">
+    <Position X="63.5" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt_int8" Collapsed="true">
+    <Position X="58.25" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt_uint16" Collapsed="true">
+    <Position X="60" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt_int16" Collapsed="true">
+    <Position X="54.75" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt_uint32" Collapsed="true">
+    <Position X="61.75" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt_int32" Collapsed="true">
+    <Position X="56.5" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt__check_size32" Collapsed="true">
+    <Position X="51.25" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt__check_size16" Collapsed="true">
+    <Position X="49.5" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt__buf" Collapsed="true">
+    <Position X="41.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt_bakedchar" Collapsed="true">
+    <Position X="41.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt_aligned_quad" Collapsed="true">
+    <Position X="41.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt_packedchar" Collapsed="true">
+    <Position X="41.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt_pack_range" Collapsed="true">
+    <Position X="29.5" Y="43.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt_vertex" Collapsed="true">
+    <Position X="17.5" Y="43.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt__bitmap" Collapsed="true">
+    <Position X="37.5" Y="42.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt__test_oversample_pow2" Collapsed="true">
+    <Position X="53" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt__csctx" Collapsed="true">
+    <Position X="33.5" Y="42.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="stbtt__point" Collapsed="true">
+    <Position X="21.5" Y="42.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LAMP_BEGP_REQ_PACKETDATA_ADD_MODULE_T" Collapsed="true">
+    <Position X="13.5" Y="42.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LAMP_BEGP_CONTROL_POINT_T" Collapsed="true">
+    <Position X="9.5" Y="42.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LAMP_BEGP_CONTROL_MODE_T" Collapsed="true">
+    <Position X="39.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LAMP_BEGP_CONTROL_SCENE_PARAMETER_T" Collapsed="true">
+    <Position X="5.5" Y="41.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LAMP_BEGP_COLLECT_POINT_T" Collapsed="true">
+    <Position X="38.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LAMP_BEGP_COLLECT_MODE_T" Collapsed="true">
+    <Position X="37.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LAMP_BEGP_COLLECT_SCENE_PARAMETER_T" Collapsed="true">
+    <Position X="37.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CLampDataManager.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::uint8_t" Collapsed="true">
+    <Position X="51.25" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::uint16_t" Collapsed="true">
+    <Position X="67" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::uint32_t" Collapsed="true">
+    <Position X="47.75" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::int8_t" Collapsed="true">
+    <Position X="63.5" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::int16_t" Collapsed="true">
+    <Position X="56.5" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::int32_t" Collapsed="true">
+    <Position X="58.25" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_FUNCODE_TYPE_T" Collapsed="true">
+    <Position X="33.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_PACKETDATA_ECHO_CODE_TYPE_T" Collapsed="true">
+    <Position X="5.5" Y="36.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_HEAD_T" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_RSP_HEAD_T" Collapsed="true">
+    <Position X="13.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_RSP_PACKETDATA_ECHO_T" Collapsed="true">
+    <Position X="9.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_ADD_CONTROLLER_PARAMETER_T" Collapsed="true">
+    <Position X="5.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_SET_CONTROLLER_PARAMETER_T" Collapsed="true">
+    <Position X="12.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_SET_CONTROLLER_TIME_T" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_RSP_PACKETDATA_GET_CONTROLLER_TIME_T" Collapsed="true">
+    <Position X="8.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_RSP_PACKETDATA_GET_CONTROLLER_PARAMETER_T" Collapsed="true">
+    <Position X="1.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_RSP_PACKETDATA_GET_CONTROLLER_INFO_T" Collapsed="true">
+    <Position X="4.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_SET_CONTROLLER_INFO_T" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_ADD_MODULE_T" Collapsed="true">
+    <Position X="25.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_SET_MODULE_PARAMETER_T" Collapsed="true">
+    <Position X="1.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_DELETE_MODULE_T" Collapsed="true">
+    <Position X="31.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_GET_MODULE_PARAMETER_T" Collapsed="true">
+    <Position X="29.5" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_RSP_PACKETDATA_GET_MODULE_PARAMETER_T" Collapsed="true">
+    <Position X="17.5" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_GET_MODULE_ERROR_CODE_T" Collapsed="true">
+    <Position X="30.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_RSP_PACKETDATA_GET_MODULE_ERROR_CODE_T" Collapsed="true">
+    <Position X="29.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_LOGICAL_POINT_PARAMETER_LAI_T" Collapsed="true">
+    <Position X="21.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_LOGICAL_POINT_PARAMETER_LAO_T" Collapsed="true">
+    <Position X="29.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_LOGICAL_POINT_PARAMETER_LDI_T" Collapsed="true">
+    <Position X="29.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_LOGICAL_POINT_PARAMETER_LDO_T" Collapsed="true">
+    <Position X="13.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_LOGICAL_POINT_PARAMETER_VAI_T" Collapsed="true">
+    <Position X="29.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_LOGICAL_POINT_PARAMETER_VAO_T" Collapsed="true">
+    <Position X="9.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_LOGICAL_POINT_PARAMETER_VDI_T" Collapsed="true">
+    <Position X="5.5" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_LOGICAL_POINT_PARAMETER_VDO_T" Collapsed="true">
+    <Position X="25.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_ADD_LOGICAL_POINT_T" Collapsed="true">
+    <Position X="27.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_SET_LOGICAL_POINT_PARAMETER_T" Collapsed="true">
+    <Position X="1.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_SET_LOGICAL_POINT_VALUE_T" Collapsed="true">
+    <Position X="25.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_SET_LOGICAL_POINT_VALUE_BY_NAME_T" Collapsed="true">
+    <Position X="17.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_DELETE_LOGICAL_POINT_T" Collapsed="true">
+    <Position X="25.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_GET_LOGICAL_POINT_PARAMETER_T" Collapsed="true">
+    <Position X="25.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_RSP_PACKETDATA_GET_LOGICAL_POINT_PARAMETER_T" Collapsed="true">
+    <Position X="21.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_GET_LOGICAL_POINT_ALARM_INFOR_T" Collapsed="true">
+    <Position X="13.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_RSP_PACKETDATA_GET_LOGICAL_POINT_ALARM_INFOR_T" Collapsed="true">
+    <Position X="9.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_CONTROL_POINT_T" Collapsed="true">
+    <Position X="26.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_CONTROL_MODE_T" Collapsed="true">
+    <Position X="23.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_CONTROL_SCENE_PARAMETER_T" Collapsed="true">
+    <Position X="5.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_COLLECT_POINT_T" Collapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_COLLECT_MODE_T" Collapsed="true">
+    <Position X="1.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_COLLECT_SCENE_PARAMETER_T" Collapsed="true">
+    <Position X="21.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_ADD_SCENE_T" Collapsed="true">
+    <Position X="21.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_SET_SCENE_PARAMETER_T" Collapsed="true">
+    <Position X="17.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_DELETE_SCENE_T" Collapsed="true">
+    <Position X="20.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_GET_SCENE_PARAMETER_T" Collapsed="true">
+    <Position X="13.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_RSP_PACKETDATA_GET_SCENE_PARAMETER_T" Collapsed="true">
+    <Position X="19.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_ADD_SCHEDULER_T" Collapsed="true">
+    <Position X="9.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_SET_SCHEDULER_PARAMETER_T" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_DELETE_SCHEDULER_T" Collapsed="true">
+    <Position X="5.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_REQ_PACKETDATA_GET_SCHEDULER_PARAMETER_T" Collapsed="true">
+    <Position X="17.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Gloable_Cross::BEGP_RSP_PACKETDATA_GET_SCHEDULER_PARAMETER_T" Collapsed="true">
+    <Position X="1.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="E_TCP_ERR_T" Collapsed="true">
+    <Position X="25.5" Y="40.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TCP.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="E_TCP_SOCKET_STATE_T" Collapsed="true">
+    <Position X="37.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TCP.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="E_TCP_CLIENTSOCKET_STATE_T" Collapsed="true">
+    <Position X="37.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TCP.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TCP_CLIENTSOCKT_T" Collapsed="true">
+    <Position X="37.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TCP.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="terra::string_stream" Collapsed="true">
+    <Position X="16.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>detail\string_stream.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint8_t" Collapsed="true">
+    <Position X="49.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComDef.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint16_t" Collapsed="true">
+    <Position X="65.25" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComDef.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint32_t" Collapsed="true">
+    <Position X="46" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComDef.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int8_t" Collapsed="true">
+    <Position X="61.75" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComDef.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int16_t" Collapsed="true">
+    <Position X="54.75" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComDef.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int32_t" Collapsed="true">
+    <Position X="60" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComDef.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="__unnamed_enum_002e_1" Collapsed="true">
+    <Position X="21.5" Y="45.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAIAAAAAIAAAAAgAgBIAAEIAAAAAAAggQg=</HashCode>
+      <FileName>tcpSocketHead.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_002e_2" Collapsed="true">
+    <Position X="13.5" Y="45.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tcpSocketHead.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_002e_3" Collapsed="true">
+    <Position X="9.5" Y="45.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAIAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>tcpSocketHead.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="soap_mime_encoding" Collapsed="true">
+    <Position X="63.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABIAAQgAAAAAAEABBAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>stdsoap2.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiPopupPositionPolicy" Collapsed="true">
+    <Position X="61.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiWindowFlags_" Collapsed="true">
+    <Position X="51.25" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAYQACAQIhAAAggghAAAEAAgBAiAQAAEAABBAAg=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiInputTextFlags_" Collapsed="true">
+    <Position X="63.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQEACAAQAAAAQAAAAAFAQBAgAAAASFYIAAAgAACAEA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiTreeNodeFlags_" Collapsed="true">
+    <Position X="49.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACAokAACAAAAAAAAQAAAAEAAAAABSAgAQAAQAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiSelectableFlags_" Collapsed="true">
+    <Position X="63.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAQAAAAAIAAAAAAAAAAAAAAAAAAgAAAQAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiComboFlags_" Collapsed="true">
+    <Position X="67" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAACAAACIAAAAABAAAABAMIA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiFocusedFlags_" Collapsed="true">
+    <Position X="56.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiHoveredFlags_" Collapsed="true">
+    <Position X="58.25" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAgAAARAAAAAJAAAAIAAAAAAAAAIAAAAAAAEAAQA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiDragDropFlags_" Collapsed="true">
+    <Position X="54.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAAAAAAgAAAAAACCAAAAAAQAIAAAAAAAgAgIACAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiDataType_" Collapsed="true">
+    <Position X="49.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAYAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiDir_" Collapsed="true">
+    <Position X="51.25" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAADAAAAAAAAAACAABAAAAAAQAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiKey_" Collapsed="true">
+    <Position X="46" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAcAUAoQAiJCAAAgAAAAAEAAAAQAAQAAAACAAAAAI=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiNavInput_" Collapsed="true">
+    <Position X="56.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAIACGABAAgCQAQAAAAAAAAgAFACAgBAAAACAEQSAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiConfigFlags_" Collapsed="true">
+    <Position X="47.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAiAAAAAAAAAAAAYAAAAAAAAAAAAAQAEQAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiBackendFlags_" Collapsed="true">
+    <Position X="58.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABABAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiCol_" Collapsed="true">
+    <Position X="61.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiUgQLAAABAMRERAQABAEACh8CAsBABAmEABAahECIA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiStyleVar_" Collapsed="true">
+    <Position X="47.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAwAAAQgAUQAQABDQAAAgAAADQgAgABAAAAAAAAQQA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiColorEditFlags_" Collapsed="true">
+    <Position X="63.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAACAAQAECAQCAiAAAQIjAAgEAAOAABAAABAAAQ=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiMouseCursor_" Collapsed="true">
+    <Position X="49.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAAAAAAAAAAAIoAAAiAAAAgAIAAAAAAAAIAAABAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiCond_" Collapsed="true">
+    <Position X="46" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECECAAgQQAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImDrawCornerFlags_" Collapsed="true">
+    <Position X="51.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAggAIBBgAAQAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImDrawListFlags_" Collapsed="true">
+    <Position X="53" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImFontAtlasFlags_" Collapsed="true">
+    <Position X="54.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAEAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiDockSlot" Collapsed="true">
+    <Position X="53" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAACQAACAAgAAAIAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>gui\src\imgui_dock.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiButtonFlags_" Collapsed="true">
+    <Position X="60" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgABAAAIBAAADkAgAACAAAAAAgAAAAAAABIAAAQAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiSliderFlags_" Collapsed="true">
+    <Position X="46" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiColumnsFlags_" Collapsed="true">
+    <Position X="65.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAEAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAACA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiSelectableFlagsPrivate_" Collapsed="true">
+    <Position X="65.25" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAQAAAAIgAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiSeparatorFlags_" Collapsed="true">
+    <Position X="67" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiItemStatusFlags_" Collapsed="true">
+    <Position X="67" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAwAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiLayoutType_" Collapsed="true">
+    <Position X="47.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiAxis" Collapsed="true">
+    <Position X="56.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAIAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiPlotType" Collapsed="true">
+    <Position X="60" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiInputSource" Collapsed="true">
+    <Position X="61.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAKAAAgAAAAAAAAAAAAUAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiInputReadMode" Collapsed="true">
+    <Position X="60" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAQABAQAAABAAAACA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiNavHighlightFlags_" Collapsed="true">
+    <Position X="54.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAEAAAAAAAAAAAAEAAAAAAEAAAAAAgAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiNavDirSourceFlags_" Collapsed="true">
+    <Position X="51.25" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAABACAAAAAAAAAAAACA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiNavMoveFlags_" Collapsed="true">
+    <Position X="58.25" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACIAAAAAAAQAAECAAAAQAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiNavForward" Collapsed="true">
+    <Position X="53" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAACAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImGuiItemFlags_" Collapsed="true">
+    <Position X="65.25" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAABQIAAAAgAAAAAAAAAAAAAAQAAAAAAAAQA=</HashCode>
+      <FileName>gui\src\imgui_internal.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0015_1" Collapsed="true">
+    <Position X="46" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAIAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_rect_pack.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0015_2" Collapsed="true">
+    <Position X="47.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_rect_pack.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0017_6" Collapsed="true">
+    <Position X="58.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAQAAAAAAAAAAAAAAAQAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0017_9" Collapsed="true">
+    <Position X="60" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAIAIAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0017_10" Collapsed="true">
+    <Position X="49.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIEAAAAAAAAAAAQAAAAQAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0017_11" Collapsed="true">
+    <Position X="51.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAACEAAACAAAAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0017_12" Collapsed="true">
+    <Position X="53" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAQECAAIAAAACAAAAAAAAAAEAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0017_13" Collapsed="true">
+    <Position X="54.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAIAAQAGAIAAAAACAAAAAACAAQAAAMAIAAAA=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0017_14" Collapsed="true">
+    <Position X="56.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAIACAgAAAAAIAAQAAACAAAAQAAgCIEgQ=</HashCode>
+      <FileName>gui\src\stb_truetype.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_002b_1" Collapsed="true">
+    <Position X="25.5" Y="38.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAoAAAAAAAAAAAAAUABAABEQAARAAAAAAAAAAAAA=</HashCode>
+      <FileName>TCP.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_002b_2" Collapsed="true">
+    <Position X="37.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAIAAA=</HashCode>
+      <FileName>TCP.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_002b_3" Collapsed="true">
+    <Position X="37.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TCP.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Active" Collapsed="true">
+    <Position X="63.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>ComDef.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ErrorCode" Collapsed="true">
+    <Position X="47.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAgAIAA=</HashCode>
+      <FileName>ComDef.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Bes::Bes200ErrorCode" Collapsed="true">
+    <Position X="56.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAAAkAQIAgEAABAIAAgBAJABAEAAAUAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Bes::MeterType" Collapsed="true">
+    <Position X="54.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAEAAABAAAARBSAAAQAAAAEAEgQAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Bes::ComRate" Collapsed="true">
+    <Position X="63.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAEAAqAoAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Bes::ComPort" Collapsed="true">
+    <Position X="61.75" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQACAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Bes::ComAgreementType" Collapsed="true">
+    <Position X="60" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Bes::DataEncodeType" Collapsed="true">
+    <Position X="65.25" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAACAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Bes::AlarmInforCategory" Collapsed="true">
+    <Position X="67" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAJAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Bes::AlarmInforType" Collapsed="true">
+    <Position X="46" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAEAAAEAAAAAAAQAQACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Bes::__unnamed_enum_0009_1" Collapsed="true">
+    <Position X="29.5" Y="36.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIIAAAIAACAAAAAAAAgAADAAAAAAAAKEAAA4gEAMAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Bes::__unnamed_enum_0009_2" Collapsed="true">
+    <Position X="17.5" Y="36.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAoAAAAAAAAAAAAAAIBIAABAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>gloable.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::Active" Collapsed="true">
+    <Position X="61.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::Bes200ErrorCode" Collapsed="true">
+    <Position X="54.75" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAEAgAAAAAAAAIAAAAAAAAAAAEAQAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::ErrorCode" Collapsed="true">
+    <Position X="46" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAgAIAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::PointType" Collapsed="true">
+    <Position X="58.25" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAAAAAAAAAAABAAgAAACAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::WorkMode" Collapsed="true">
+    <Position X="67" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::Polarity" Collapsed="true">
+    <Position X="60" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::AlarmActive" Collapsed="true">
+    <Position X="65.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAgAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::AlarmType" Collapsed="true">
+    <Position X="53" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAQAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::AlarmPriority" Collapsed="true">
+    <Position X="47.75" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::AlarmTrigger" Collapsed="true">
+    <Position X="51.25" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::AlarmState" Collapsed="true">
+    <Position X="49.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAEAAAAACAAAAAAIAAAAAAAEAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::LineType" Collapsed="true">
+    <Position X="53" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACACAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::CollectID" Collapsed="true">
+    <Position X="58.25" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAI=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::TimeUnit" Collapsed="true">
+    <Position X="65.25" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAEAAAAAAAAABAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::PlanType" Collapsed="true">
+    <Position X="56.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::ExecutionWay" Collapsed="true">
+    <Position X="49.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::SceneType" Collapsed="true">
+    <Position X="61.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::__unnamed_enum_000a_1" Collapsed="true">
+    <Position X="33.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>0IIAARAAAAAICAAAAAEgAIGAAAKALUAqAAQAoIAAMAg=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gloable_Cross::__unnamed_enum_000a_2" Collapsed="true">
+    <Position X="5.5" Y="34.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAAAAAAAAAACAAAAAAABIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gloable_Cross.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="dec_::Direction" Collapsed="true">
+    <Position X="67" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>detail\itoa.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
